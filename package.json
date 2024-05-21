@@ -1,0 +1,20 @@
+{
+  "name": "youtubebackend",
+  "version": "1.0.0",
+  "description": "Make a full backend of youtube",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "backend",
+    "code",
+    "nodeJS",
+    "express"
+  ],
+  "author": "Rana Huzaima",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
