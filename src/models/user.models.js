@@ -33,7 +33,7 @@ const userSchema = new Schema({
         type: String,
         required: [true, 'Avatar image is required'],
     },
-    coverlmage: {
+    coverImage: {
         type: String,
     },
     password: {
